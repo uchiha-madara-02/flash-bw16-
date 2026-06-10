@@ -85,28 +85,6 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ---
 
-### 4. Hiệu ứng bí mật “Uchiha Madara”
-
-- Nhấn tổ hợp phím **Ctrl + Alt + C** (hoặc **Cmd + Alt + C** trên macOS) để kích hoạt overlay đặc biệt.
-- Dòng chữ “UCHIHA MADARA” sẽ hiện ra với hiệu ứng cầu vồng.
-- Click vào màn hình để tắt.
-
----
-
-## 🔒 Bảo mật code (Obfuscation)
-
-Toàn bộ giao diện và logic đều nằm trong một thẻ `<script type="module">`. Bạn có thể dễ dàng làm rối code để bảo vệ ý tưởng:
-
-1. Mở file `index.html`, copy toàn bộ nội dung bên trong `<script type="module">`.
-2. Truy cập [obfuscator.io](https://obfuscator.io).
-3. Dán code vào ô **Input**, giữ cài đặt mặc định hoặc tùy chỉnh.
-4. Nhấn **Obfuscate**, sao chép code đã bị làm rối.
-5. Thay thế toàn bộ nội dung script cũ bằng code mới.
-
-File HTML vẫn hoạt động bình thường vì tất cả HTML được tạo động bằng JavaScript.
-
----
-
 ## 🧪 Trình duyệt hỗ trợ
 
 | Trình duyệt | Web Serial API | Tình trạng |
