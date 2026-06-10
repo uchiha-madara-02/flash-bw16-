@@ -7,14 +7,10 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 🚀 Bắt đầu nhanh
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-uchiha--madara--02.github.io%2Fflash--bw16---0a0a0c?style=for-the-badge&logo=github&logoColor=white)](https://uchiha-madara-02.github.io/flash-bw16-/)
+<p align="center">
+  <img src="screenshot.png" alt="Madara Flasher UI" width="800" style="border-radius: 12px; box-shadow: 0 0 30px rgba(255, 0, 60, 0.5);">
+</p>
 
-[<i class="fas fa-external-link-alt"></i> **Mở công cụ Madara Flasher**](https://uchiha-madara-02.github.io/flash-bw16-/)
-
-<a href="https://uchiha-madara-02.github.io/flash-bw16-/" 
-   style="display:inline-block;background:#ff003c;color:#fff;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;font-family:sans-serif;">
-   🔥 TRUY CẬP NGAY
-</a>
 ---
 
 ![Madara](anh/menu.png)
