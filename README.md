@@ -7,13 +7,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 🚀 Bắt đầu nhanh
 
-1. **Tải project** về máy (chỉ cần file `index.html` là đủ).
-2. **Mở `index.html`** bằng **Google Chrome** hoặc **Microsoft Edge** (phiên bản ≥ 89).
-3. Cấp quyền truy cập cổng Serial khi trình duyệt yêu cầu.
-4. Ở màn hình chào, chọn kiến trúc vi điều khiển:
-   - **AMEBA_D** → dành cho board BW16 (RTL8720DN).
-   - **ESP_CORE** → dành cho ESP32, ESP8266.
-5. Chọn file firmware phù hợp và nhấn **FLASH_DEVICE**.
+- Truy cập: https://uchiha-madara-02.github.io/flash-bw16-/
 
 ---
 
@@ -29,8 +23,6 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 | Bootloader nhúng sẵn | KM0 + KM4 | Không áp dụng |
 | Hỗ trợ tốc độ baud tùy chọn | 9600 – 2.000.000 | 9600 – 2.000.000 |
 | Tự động đồng bộ tốc độ cao | ✅ | ✅ |
-| Hiệu ứng bí mật | Ctrl+Alt+C | Ctrl+Alt+C |
-| Giao diện Cyberpunk | 🎨 có | 🎨 có |
 
 ---
 
