@@ -119,7 +119,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 📜 Giấy phép & Tác giả
 
-  *Uchiha Madara
+  * Uchiha Madara
   * Tôi nghiên cứu từ 2 link này:
     - https://espressif.github.io/esptool-js/
     - https://nethercap-web-flasher-v2.vercel.app/
