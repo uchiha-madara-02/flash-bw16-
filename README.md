@@ -8,9 +8,22 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 ## 🚀 Bắt đầu nhanh
 
 <p align="center">
-  <a href="https://uchiha-madara-02.github.io/flash-bw16-/" 
-     style="display:inline-block;background:#ff003c;color:#fff;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;font-family:sans-serif;">
-     🔥 TRUY CẬP NGAY
+  <a href="https://uchiha-madara-02.github.io/flash-bw16-/"
+     style="display:inline-block;
+            background:#ff003c;
+            color:#fff;
+            padding:18px 48px;
+            border-radius:8px;
+            text-decoration:none;
+            font-weight:900;
+            font-family:'Orbitron', sans-serif;
+            font-size:1.6rem;
+            letter-spacing:2px;
+            text-transform:uppercase;
+            box-shadow: 0 0 25px rgba(255,0,60,0.7), 0 0 50px rgba(255,0,60,0.3);
+            border: 2px solid #ff003c;
+            transition: all 0.3s ease;">
+     🔥 TRUY CẬP NGAY 🔥
   </a>
 </p>
 
