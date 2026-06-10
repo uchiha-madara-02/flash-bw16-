@@ -7,7 +7,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 🚀 Bắt đầu nhanh
 
-- Truy cập: https://uchiha-madara-02.github.io/flash-bw16-/
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-uchiha--madara--02.github.io%2Fflash--bw16---0a0a0c?style=for-the-badge&logo=github&logoColor=white)](https://uchiha-madara-02.github.io/flash-bw16-/)
 
 ---
 
