@@ -119,7 +119,7 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ## 📜 Giấy phép & Tác giả
 
-
+  *Uchiha Madara
 
 **“Wake up to reality! Nothing ever goes as planned in this accursed world.”**  
 – Madara Uchiha
