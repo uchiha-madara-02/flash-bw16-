@@ -30,6 +30,8 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ### 1. Nạp firmware cho **BW16 (AMEBA_D)**
 
+![Madara](anh/ameba.png)
+
 #### 🔹 Chế độ đơn giản (Simple Mode – khuyên dùng)
 
 - Bootloader **KM0** và **KM4** đã được tích hợp sẵn trong code, bạn không cần chọn chúng.
@@ -58,6 +60,8 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 ---
 
 ### 2. Nạp firmware cho **ESP32 / ESP8266**
+
+![Madara](anh/esp.png)
 
 - Sau khi chọn **ESP_CORE**, giao diện sẽ ở chế độ Advanced (không có Simple Mode).
 - Thêm ít nhất một dòng firmware với địa chỉ và file. Ví dụ:
