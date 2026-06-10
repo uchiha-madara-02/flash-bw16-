@@ -11,6 +11,8 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
 
 ---
 
+![Madara](anh/menu.png)
+
 ## ✨ Tính năng chính
 
 | Chức năng | AMEBA_D (BW16) | ESP_CORE |
