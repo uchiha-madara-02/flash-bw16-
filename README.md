@@ -11,6 +11,11 @@ Không cần cài đặt bất kỳ phần mềm nào – chỉ cần trình duy
   <img src="screenshot.png" alt="Madara Flasher UI" width="800" style="border-radius: 12px; box-shadow: 0 0 30px rgba(255, 0, 60, 0.5);">
 </p>
 
+<a align="center" href="https://uchiha-madara-02.github.io/flash-bw16-/" 
+   style="display:inline-block;background:#ff003c;color:#fff;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:bold;font-family:sans-serif;">
+   🔥 TRUY CẬP NGAY
+</a>
+
 ---
 
 ![Madara](anh/menu.png)
